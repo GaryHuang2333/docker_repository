@@ -12,4 +12,3 @@ change by branch d1 +6
 change by branch d1 +7
 
 ---------------------------------
-change by branch d1 +8
