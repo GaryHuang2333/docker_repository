@@ -33,5 +33,6 @@ collaborate (see also: git help workflows)
 
 change by branch d2
 
-
-change by branch d1 (this should not remove)
+change by branch d1 (this should not remove) +2
+change by branch d1 (this should not remove) +2
+change by branch d1 (this should not remove) +2
