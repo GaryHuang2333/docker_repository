@@ -36,3 +36,6 @@ change by branch d2
 change by branch d1 (this should not remove) +2
 change by branch d1 (this should not remove) +2
 change by branch d1 (this should not remove) +2
+
+change by branch d1 (this should be remove)
+change by branch d1 (this should be remove) +1
