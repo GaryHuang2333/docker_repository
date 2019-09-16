@@ -32,3 +32,6 @@ collaborate (see also: git help workflows)
    push       Update remote refs along with associated objects
 
 change by branch d2
+
+
+change by branch d1 (this should not remove)
