@@ -10,3 +10,5 @@ change by branch d1 +5
 change by branch d1 (should be revert)
 change by branch d1 +6
 change by branch d1 +7
+
+change by branch d1 (should be revert) +1
