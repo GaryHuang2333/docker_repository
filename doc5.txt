@@ -8,4 +8,3 @@ change by branch d1 +4
 change by branch d1 +5
 
 change by branch d1 (should be revert)
-change by branch d1 (should be revert) +1
